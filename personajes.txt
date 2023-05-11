@@ -1,0 +1,12 @@
+Goku,false,hombre,negro,true,Dragon Ball
+Darth Vader,false,hombre,calvo,false,Star Wars
+Sakura,false,mujer,rosa,false,Naruto
+Oliver,false,hombre,negro,false,Oliver y Benji
+Supergirl,false,mujer,rubio,true,DC
+Batman,false,hombre,negro,false,DC
+Eminem,true,hombre,rubio,false,Cantante
+Michael Jordan,true,hombre,calvo,false,Jugador de baloncesto
+Rosalia,true,mujer,castaño,false,Cantante
+Leo Messi,true,hombre,castaño,false,Jugador de fútbol
+Frida Khalo,true,mujer,negro,false,Pintora
+Coco Chanel,true,mujer,negro,false,Diseñadora de moda

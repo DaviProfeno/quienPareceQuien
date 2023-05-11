@@ -1,0 +1,19 @@
+1.- ¿Tu personaje es real?
+2.- ¿Tu personaje es hombre?
+3.- ¿Tu personaje es mujer?
+4.- ¿Tu personaje tiene el pelo castaño?
+5.- ¿Tu personaje tiene el pelo rubio?
+6.- ¿Tu personaje tiene el pelo negro?
+7.- ¿Tu personaje tiene el pelo rosa?
+8.- ¿Tu personaje es calvo?
+9.- ¿Tu personaje puede volar?
+10.- ¿Tu personaje es del Universo Dragon Ball?
+11.- ¿Tu personaje es del Universo Star Wars?
+12.- ¿Tu personaje es del Universo Naruto?
+13.- ¿Tu personaje es del Universo Oliver y Benji?
+14.- ¿Tu personaje es del Universo DC?
+15.- ¿Tu personaje es cantante?
+16.- ¿Tu personaje es jugador de fútbol?
+17.- ¿Tu personaje es jugador de baloncesto?
+18.- ¿Tu personaje es pintora?
+19.- ¿Tu personaje es diseñadora de moda?
